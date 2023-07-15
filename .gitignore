@@ -29,6 +29,7 @@ MANIFEST
 #Mac related
 .DS_Store
 .DS_Store?
+.DS_
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
